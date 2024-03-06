@@ -1,0 +1,2 @@
+D:\cProjects\ParkingMgtSystem\x64\Debug\ParkingMgtSystem.exe
+C:\SAD\ParkingMgtSystem\x64\Debug\ParkingMgtSystem.exe

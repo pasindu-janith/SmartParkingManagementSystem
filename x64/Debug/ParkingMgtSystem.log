@@ -1,0 +1,4 @@
+﻿  ParkingMgtSystem.cpp
+C:\SAD\ParkingMgtSystem\ParkingMgtSystem.cpp(80,40): warning C4244: 'argument': conversion from 'time_t' to 'long', possible loss of data
+C:\SAD\ParkingMgtSystem\ParkingMgtSystem.cpp(234,20): warning C4244: 'initializing': conversion from 'time_t' to 'short', possible loss of data
+  ParkingMgtSystem.vcxproj -> C:\SAD\ParkingMgtSystem\x64\Debug\ParkingMgtSystem.exe
